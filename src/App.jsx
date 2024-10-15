@@ -3,7 +3,7 @@ import StarRating from './Components/StarRating'
 
 const App = () => {
   return (
-    <StarRating />
+    <StarRating NoOFStar={5}/>
   )
 }
 
